@@ -1,0 +1,6 @@
+.vscode/*
+input*.txt
+.DS_Store
+
+// ignore files that are prefixed with an underscore
+_*
